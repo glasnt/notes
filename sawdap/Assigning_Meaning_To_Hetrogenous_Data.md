@@ -5,7 +5,7 @@ Data is code, Code is Data
 Ekert & Monchly - ENAIC computers
 
 Church: "Everything is code" 
-Turing: "Everything is dad"
+Turing: "Everything is dada"
 
 Relations have underlying meaning
  - (not databases (RDBS), can't store what we need
@@ -44,6 +44,6 @@ Comments
  - rule mining (from data mining)
  - "finite state machine" is restrictive; make it *abstract*
  - infered machines
- - labbel transitions
+ - label transitions
 
 
