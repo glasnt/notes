@@ -1,5 +1,5 @@
 
-| You are the post powerful person in the room. Do what you like, as long as it's good.
+ | You are the post powerful person in the room. Do what you like, as long as it's good.
 
 
  - Don't distract your audience 
@@ -27,3 +27,6 @@
  - Presenter presentation
   - makeup is ok, if it makes you comfortable and confident (also helpful if talk is recorded)
   - hair - up is very formal, but just don't touch it during
+
+ - There is always more to learn
+  - after a talk, self evaluate, write down suggestions
