@@ -1,6 +1,7 @@
 
- | You are the post powerful person in the room. Do what you like, as long as it's good.
+ > You are the post powerful person in the room. Do what you like, as long as it's good.
 
+ - You know more than the rest of your audience. Teach them something.
 
  - Don't distract your audience 
   - wear dark clothes, no words on your shirt. Focus then falls on your hands, arms and face
@@ -15,9 +16,11 @@
   - removing emotion cuts off communication
 
  - Slides tips
-  - smallest font should be ~60pt, fifth of screen height 
-  - negative space is your friend
-  - leave 10% margin on edges
+  - make them consistent
+  - make the tone in line with your tone (more emotive slides during more emotive areas)
+  - big words
+  - full screen pictures
+  - projector equipment will be awful, compensate
 
  - Posture tips
   - feet facing the audience, perhaps with one foot slightly forward
