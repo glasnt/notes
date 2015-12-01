@@ -10,4 +10,12 @@
 `cat <whatnot> | sort | uniq -c | sort -n`
  - sort and count an output, then order by instances of the lines (`-n` for numeric sorting)
  
+ ### Git
+
+`git grep <thing>`
+ - grep through git for a thing. Can be faster that `grep <thing>` because of local non-git files
  
+`git grep <thing> $(git rev-list --all)`
+ - grep all commits 
+ 
+
